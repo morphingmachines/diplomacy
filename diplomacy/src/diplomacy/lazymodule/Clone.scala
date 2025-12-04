@@ -1,3 +1,4 @@
+// See LICENSE.SiFive for license details.
 package org.chipsalliance.diplomacy.lazymodule
 
 import chisel3.experimental.SourceInfo

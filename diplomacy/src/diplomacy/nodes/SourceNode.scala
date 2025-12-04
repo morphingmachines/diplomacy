@@ -1,3 +1,4 @@
+// See LICENSE.SiFive for license details.
 package org.chipsalliance.diplomacy.nodes
 
 import chisel3.{Data, Flipped, IO}
