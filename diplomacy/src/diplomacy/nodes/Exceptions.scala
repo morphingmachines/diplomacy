@@ -1,3 +1,4 @@
+// See LICENSE.SiFive for license details.
 package org.chipsalliance.diplomacy.nodes
 
 abstract class CycleException(kind: String, loop: Seq[String])

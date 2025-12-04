@@ -1,3 +1,4 @@
+// See LICENSE.SiFive for license details.
 package org.chipsalliance.diplomacy.bundlebridge
 
 import chisel3.{chiselTypeOf, ActualDirection, Data, Reg}

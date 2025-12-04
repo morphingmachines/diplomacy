@@ -1,3 +1,4 @@
+// See LICENSE.SiFive for license details.
 package org.chipsalliance.diplomacy.aop
 
 import chisel3.Data
